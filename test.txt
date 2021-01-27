@@ -1,2 +1,3 @@
 hello git!
-まだよくわからないわ
+Edit test!
+branch test!
